@@ -17,6 +17,7 @@ The project uses axios on the server to make RESTful calls to the yummly api.
 6. /reviews/list
 7. /tags/list
 
-## **Note**: All endpoints are GET requests
+### **Note**: All endpoints are GET requests
+### **Live Server Link**: <https://yummly-clone-nupat-teams.onrender.com>
 
-## **Author**: theSamuelIyeh <thesamueliyeh@gmail.com>
+### **Author**: theSamuelIyeh <thesamueliyeh@gmail.com>
