@@ -4,6 +4,7 @@ const router = express.Router();
 
 //get list of tags
 router.get("/list", async (req, res) => {
+  res.setHeader('Content-Type', 'application/json');
   const params = req.query;
   console.log(params);
   try {
@@ -16,7 +17,7 @@ router.get("/list", async (req, res) => {
         },
       }
     );
-    res.json(response.data);
+    res.send(JSON.stringify(response.data, null, 3));
   } catch (error) {
     res.json(error);
   }
