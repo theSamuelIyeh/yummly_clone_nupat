@@ -15,7 +15,7 @@ The project uses axios on the server to make RESTful calls to the yummly api.
 4. /feeds/search
 5. /categories/list
 6. /reviews/list
-7. tags/list
+7. /tags/list
 
 ## **Note**: All endpoints are GET requests
 
