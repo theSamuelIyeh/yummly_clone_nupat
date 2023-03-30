@@ -20,7 +20,7 @@ router.get('/list', async (req, res) => {
     );
     res.send(JSON.stringify(response.data, null, 3));
   } catch (error) {
-    res.send(JSON.stringify(error, NULL, 3));
+    res.send(JSON.stringify(error, null, 3));
   }
 });
 

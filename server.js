@@ -1,3 +1,6 @@
+if (process.env.NODE_ENV !== 'production') {
+    require('dotenv').config();
+}
 const express = require("express");
 const bodyParser = require("body-parser");
 
@@ -8,7 +11,7 @@ const categoryRouter = require("./routes/categories");
 const reviewRouter = require("./routes/reviews");
 const tagRouter = require("./routes/tags");
 
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 app.use("/feeds", feedRouter);
 app.use("/categories", categoryRouter);
 app.use("/reviews", reviewRouter);
