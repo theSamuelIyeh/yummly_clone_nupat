@@ -1,6 +1,6 @@
 # YUMMLY API CLONE
 
-## A brief documentation of the yummly clone project at Nupat Teams
+### A brief documentation of the yummly clone project at Nupat Teams
 
 ## Description
 
@@ -19,5 +19,5 @@ The project uses axios on the server to make RESTful calls to the yummly api.
 
 ### **Note**: All endpoints are GET requests
 ### **Live Server Link**: <https://yummly-clone-nupat-teams.onrender.com>
-
+### Proper documentation can be found here 
 ### **Author**: theSamuelIyeh <thesamueliyeh@gmail.com>
