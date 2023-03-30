@@ -1,4 +1,4 @@
-# README FILE
+# YUMMLY API CLONE
 
 ## A brief documentation of the yummly clone project at Nupat Teams
 
