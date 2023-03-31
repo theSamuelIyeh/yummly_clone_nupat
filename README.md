@@ -4,8 +4,8 @@
 
 ## Description
 
-The project is a node js server that replicates the response of the yummly api by making calls to the yummly api.
-The project uses axios on the server to make RESTful calls to the yummly api.
+The project is a Node Js server using the Express Js framework that replicates the response of the yummly API by making calls to the yummly API.
+The project uses axios on the server to make RESTful calls to the yummly API.
 
 ## Endpoints
 
