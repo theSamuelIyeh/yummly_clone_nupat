@@ -9,14 +9,14 @@ The project uses axios on the server to make RESTful calls to the yummly api.
 
 ## Endpoints
 
-* / (Home page)
-* /feeds/list
-* /feeds/list-similarities
-* /feeds/auto-complete
-* /feeds/search
-* /categories/list
-* /reviews/list
-* /tags/list
+* [/ (Home page)](https://yummly-clone-nupat-teams.onrender.com)
+* [/feeds/list](https://yummly-clone-nupat-teams.onrender.com/feeds/list)
+* [/feeds/list-similarities](https://yummly-clone-nupat-teams.onrender.com/feeds/list-similarities)
+* [/feeds/auto-complete](https://yummly-clone-nupat-teams.onrender.com/feeds/auto-complete)
+* [/feeds/search](https://yummly-clone-nupat-teams.onrender.com/feeds/search)
+* [/categories/list](https://yummly-clone-nupat-teams.onrender.com/categories/list)
+* [/reviews/list](https://yummly-clone-nupat-teams.onrender.com/reviews/list)
+* [/tags/list](https://yummly-clone-nupat-teams.onrender.com/categories/list/tags/list)
 
 ### **Note**: All endpoints are GET requests
 
