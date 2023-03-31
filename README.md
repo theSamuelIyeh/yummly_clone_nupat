@@ -9,6 +9,7 @@ The project uses axios on the server to make RESTful calls to the yummly api.
 
 ## Endpoints
 
+* / (Home page)
 * /feeds/list
 * /feeds/list-similarities
 * /feeds/auto-complete
